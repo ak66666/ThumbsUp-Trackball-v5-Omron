@@ -2,6 +2,9 @@
 A version of v3 with Omron D2FC-7 switches used instead of Kailh Chocs.
 PCB is used as button caps.
 
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/PCB%20Totem%20Pole%2C%20Front.png)
+
+
 #From ThumbsUp! Trackball v3 description
 
 A PCB-based thumb-operated trackball, inspired by Elecom EX-G left hand trackball, Ploopy Nano trackball, and my own ThumbsUp! keyboards.
