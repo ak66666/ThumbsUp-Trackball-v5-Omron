@@ -1,33 +1,27 @@
-# ThumbsUp! Trackball v4 Omron
+# ThumbsUp! Trackball v5 Omron
 A version of v3 with Omron D2FC-7 switches used instead of Kailh Chocs.
 PCB is used as button caps.
 
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/PCB%20Totem%20Pole%2C%20Front.png)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/v4rev1/IMG_20251021_160105760.jpg)
 
-
-#From ThumbsUp! Trackball v3 description
 
 A PCB-based thumb-operated trackball, inspired by Elecom EX-G left hand trackball, Ploopy Nano trackball, and my own ThumbsUp! keyboards.
 
 To be suitable for both left- and right-hand usage (in "portrairt" orientation), and also be finger-operated (in "landscape").
 A three-position switch/soldering pad tells the device which mode to use - that will define the rotating direction.
 
-It is a continuation of Trackball v2 - with the switches moved around, top board rotation eliminated, and some other minor changes.
+It is a continuation of Trackball v3 - with the Kailh Choc switches replaced with Omron mouse buttons.
  
-Off-the-shelf ProMicro-style MCUs are considered: 
-- Atmega- or RP2040-driven with QMK-based firmware - wired.
-- nice!nano v2 (and clones) with ZMK-based firmware - wireless.
+For MCU nice!nano v2 (and clones) with ZMK-based firmware is used (wired or wireless through Bluetooth or a dongle.)
 
 34 mm ball, same as in Elecom EX-G.
 For bearings - uxcell 2.5mm Ceramic Bearing Balls, ZrO2 Zirconium Oxide Ball, again, the same as used to improve my Elecom trackballs.
 Bearings to be implanted into PCBs, no 3D-printed ball shroud/holder.
 
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v3/blob/main/Photos/IMG_20250910_185422380.jpg)
-![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v3/blob/main/Photos/IMG_20250910_185543823.jpg)
 
 Other pictures in Photos folder.
 
-# Firmware
+# Firmware - same as v3
 
 Original version with BT and wired connection:
 https://github.com/ak66666/zmk-config-trackball.v3        
@@ -41,12 +35,16 @@ https://github.com/ak66666/zmk-config-trackball-v3-and-keyboard-v9.dongle
 
 # For sale on Etsy
  
-https://www.etsy.com/ca/listing/4367668734
+https://www.etsy.com/ca/listing/4390955764
 
 # Assembly Instructions
 
+Similar to v3:
 https://thumbsupkeyboards.blogspot.com/2025/09/thumbsup-trackball-v3-assembly-steps.html
 
+The difference is in the switches only.
+3D printed switch bases are needed.
+Below the switches there are three-point soldering connectors - you need to close two of them on the side where the switch button is.
 
 
 # Gerber Generation
