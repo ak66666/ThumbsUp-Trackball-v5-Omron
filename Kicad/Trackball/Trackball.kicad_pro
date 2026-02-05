@@ -862,7 +862,7 @@
       "plot": "Fabrication/V5 L4 Flaps/",
       "pos_files": "Fabrication/Sensor/",
       "specctra_dsn": "",
-      "step": "Palm Support/Palm Support.step",
+      "step": "../../3D Parts/Top Plate.step",
       "svg": "",
       "vrml": ""
     },
