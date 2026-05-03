@@ -3870,12 +3870,6 @@
 		(uuid "4d4b3960-0b94-47cf-9779-49cf52ef90a9")
 	)
 	(junction
-		(at 208.28 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4dab1d36-baf0-47c6-b5ab-2b29b19389e4")
-	)
-	(junction
 		(at 267.97 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4222,16 +4216,6 @@
 			(type default)
 		)
 		(uuid "09a90a15-8b9b-4e0f-adfc-5b15b2a4a8be")
-	)
-	(wire
-		(pts
-			(xy 204.47 91.44) (xy 208.28 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c826fc7-bea1-4b27-a91d-1437b9761f65")
 	)
 	(wire
 		(pts
@@ -5315,7 +5299,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 91.44) (xy 212.09 91.44)
+			(xy 204.47 91.44) (xy 212.09 91.44)
 		)
 		(stroke
 			(width 0)
@@ -10747,73 +10731,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 208.28 93.98 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d0487c1-359d-4941-8098-98d9ebeaab9e")
-		(property "Reference" "H2"
-			(at 210.82 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 210.82 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
-			(at 208.28 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 208.28 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 208.28 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "04f8fbbd-dc22-48ef-80d3-b330dd316e51")
-		)
-		(instances
-			(project "Trackball"
-				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
-					(reference "H2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 165.1 63.5 0)
 		(mirror y)
@@ -14064,73 +13981,6 @@
 			(project ""
 				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
 					(reference "RESET1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 200.66 93.98 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f21887c3-7ed4-4f5c-8b0e-b8c94112bb5d")
-		(property "Reference" "H3"
-			(at 203.2 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 203.2 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
-			(at 200.66 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 200.66 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 200.66 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c998131b-99f3-4cc1-b237-1ecc68b451c1")
-		)
-		(instances
-			(project "Trackball"
-				(path "/8cc78baa-4975-41f7-8a0a-10f41c28d40d"
-					(reference "H3")
 					(unit 1)
 				)
 			)
