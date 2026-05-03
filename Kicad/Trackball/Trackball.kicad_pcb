@@ -16205,8 +16205,8 @@
 		(uuid "b887a146-9b10-492d-acbb-859344381149")
 	)
 	(gr_rect
-		(start 217.65 68.1)
-		(end 225.4 96.35)
+		(start 217.65 67.1)
+		(end 225.4 97.35)
 		(stroke
 			(width 0.12)
 			(type solid)
