@@ -6,6 +6,9 @@ PCB is used as button caps.
 
 Back(Top) Palm Support
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_195445988.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_201007099.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_201107323.jpg)
+![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_201113105.jpg)
 
 A PCB-based thumb-operated trackball, inspired by Elecom EX-G left hand trackball, Ploopy Nano trackball, and my own ThumbsUp! keyboards.
 
