@@ -2,9 +2,13 @@
 A version of v3 with Omron D2FC-7 switches used instead of Kailh Chocs.
 PCB is used as button caps.
 
+Finger-controlled configuration.
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/v4rev1/IMG_20251021_160105760.jpg)
 
-Back(Top) Palm Support
+
+For the thumb-operated mode a back(top) palm support is included.
+For the right-hand operation mirror the model in slicer.
+
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_195445988.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_201007099.jpg)
 ![Photos](https://github.com/ak66666/ThumbsUp-Trackball-v5-Omron/blob/main/Photos/BackHump/IMG_20260522_201107323.jpg)
